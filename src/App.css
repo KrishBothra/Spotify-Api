@@ -1,0 +1,92 @@
+
+.opac{
+  opacity: 95%;
+}
+
+.container{
+  position: relative;
+  max-width: 725px;
+  max-height: 784px;
+}
+
+.container2{
+  position: center;
+  max-width: 725px;
+  max-height: 784px;
+}
+
+.overMid{
+  position: absolute;
+  top: 85%;
+  left: 45%;
+  opacity: 50%;
+  color: dark;
+  text-align: center;
+
+}
+
+.overMidName{
+  position: absolute;
+  top: 13%;
+  left: 46.5%;
+  opacity: 75%;
+  color: dark;
+  text-align: center;
+
+}
+
+.overMidT{
+  position: absolute;
+  top: 80%;
+  left: 49%;
+  opacity: 50%;
+  color: black;
+  text-align: center;
+  width: 60px;
+  font-weight: bold;
+}
+
+.btnC{
+  position: absolute;
+  top: 80%;
+  left: 20%;
+  opacity: 50%;
+  color: dark;
+  text-align: center;
+
+}
+
+.btnCT{
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  opacity: 75%;
+  color: dark;
+  text-align: center;
+}
+
+.btn2{
+  position: absolute;
+  top: 80%;
+  right: 15%;
+  opacity: 50%;
+  color: dark;
+}
+
+.btn2T{
+  position: absolute;
+  top: 10%;
+  right: 20%;
+  opacity: 75%;
+  color: dark;
+  text-align: center;
+  font-weight: bold;
+}
+
+.background{
+  background-color: #343a40;
+}
+
+
+
+
